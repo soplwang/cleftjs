@@ -1,0 +1,24 @@
+{
+  "name": "cleft",
+  "version": "1.0.0",
+  "description": "Combine stand-alone error and success continuation into node.js style callback.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec",
+    "jshint": "jshint index.js test/ || exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soplwang/cleftjs.git"
+  },
+  "keywords": [
+    "callback",
+    "continuation"
+  ],
+  "author": "Wang Wenlin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soplwang/cleftjs/issues"
+  },
+  "homepage": "https://github.com/soplwang/cleftjs#readme"
+}
